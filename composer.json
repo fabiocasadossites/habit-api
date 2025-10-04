@@ -67,7 +67,11 @@
         ],
         "rector-run": [
             "./vendor/bin/rector"
+        ],
+        "pint": [
+            "./vendor/bin/pint"
         ]
+
     },
     "extra": {
         "laravel": {
